@@ -1,0 +1,15 @@
+*.pyc
+.idea/
+*.iml
+target/
+.classpath
+.project
+.settings/
+.DS_Store
+.vscode/
+test/
+.factorypath
+airflow_dags/sync/hive_task_relation.csv
+airflow_dags/sync/airflow_dag_tasks.csv
+*.pid
+/logs
